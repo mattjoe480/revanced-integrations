@@ -1,3 +1,4 @@
+**bump v0.115.1**
 # [0.97.0](https://github.com/revanced/revanced-integrations/compare/v0.96.2...v0.97.0) (2023-02-14)
 
 
